@@ -1,6 +1,6 @@
 <!-- ====== PROFILE PHOTO ====== -->
 <p align="center">
-  <img src="https://ketanmone.github.io/ketan-profile.jpg" alt="Ketan Mone" width="180" style="border-radius:50%; box-shadow:0px 0px 10px rgba(0,0,0,0.2);">
+  <img src="https://ketanmone.github.io/ketan-profile.jpeg" alt="Ketan Mone" width="180" style="border-radius:50%; box-shadow:0px 0px 10px rgba(0,0,0,0.2);">
 </p>
 <h1 align="center">👋 Hi, I'm <span style="color:#0077B5;">Ketan Mone</span></h1>
 
