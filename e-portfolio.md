@@ -192,4 +192,4 @@ Zografopoulos, I. et al. (2021) ‘Cyber-physical energy systems security: threa
 
 ---
 
-*End of e-portfolio.*
+[🏠 Home](./) | [📘 E-Portfolio](./e-portfolio) | [🔗 GitHub Repository](https://github.com/ketanmone/ketanmone.github.io)
