@@ -1,7 +1,7 @@
 # MSc Cyber Security — Security & Risk Management   
-**Student:** Ketan Mone  
+**Student:** Ketan Dileep Mone  
 **Programme:** University of Essex Online — MSc Cyber Security   
-**Section:** Security & Risk Management    
+**Module:** Security & Risk Management    
 **Live URL:** https://ketanmone.github.io/e-portfolio
 
 ---
