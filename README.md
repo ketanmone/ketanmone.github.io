@@ -1,4 +1,7 @@
-<!-- ====== PROFILE HEADER ====== -->
+<!-- ====== PROFILE PHOTO ====== -->
+<p align="center">
+  <img src="https://ketanmone.github.io/ketan-profile.jpg" alt="Ketan Mone" width="180" style="border-radius:50%; box-shadow:0px 0px 10px rgba(0,0,0,0.2);">
+</p>
 <h1 align="center">👋 Hi, I'm <span style="color:#0077B5;">Ketan Mone</span></h1>
 
 <p align="center">
@@ -18,9 +21,16 @@ Experienced in working with cross-functional teams across the **USA**, **Europe*
 ---
 
 ## 🧠 Core Competencies  
-| Cyber Security & Compliance | Strategic Planning & Governance | Risk & Change Management | Agile Project Leadership |
-|------------------------------|----------------------------------|--------------------------|---------------------------|
-| Infrastructure & Service Delivery | Stakeholder Communication | Program Governance | Process Optimisation |
+
+🧩 **Cyber Security & Compliance** — Risk management, governance, and control frameworks (ISO 27001, NIST, ITIL).  
+🧩 **Strategic Planning & Governance** — Aligning IT initiatives with business strategy and compliance requirements.  
+🧩 **Risk & Change Management** — Conducting impact assessments, policy documentation, and root cause analysis.  
+🧩 **Agile Project Leadership** — Implementing Scrum methodologies for cross-functional global teams.  
+🧩 **Infrastructure & Service Delivery** — Managing uptime, performance metrics, and ServiceNow-based operations.  
+🧩 **Stakeholder Communication** — Executive reporting, vendor coordination, and team mentoring.  
+🧩 **Program Governance** — Overseeing capacity planning, SLA performance, and audit-readiness initiatives.  
+🧩 **Process Optimisation** — Driving automation, efficiency, and continuous improvement across IT ecosystems.  
+
 
 ---
 
