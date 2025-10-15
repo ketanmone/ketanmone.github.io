@@ -130,6 +130,51 @@ This e-portfolio summarises learning and artefacts from **Units 1–12**, links 
 **Reflection.** I argued that **AI-driven risk intelligence**—paired with human oversight—will be most influential, because it connects detection, response, and governance into a continuous feedback loop.
 
 ---
+---
+
+# 📄 Appendix: Module Assignments and Artefacts  
+
+## 🧠 Development Team Project — Risk Identification Report  
+**Title:** *Pampered Pets: Risk Assessment and Recommendations*  
+**Type:** Group Submission — Team Cipher  
+**Grade Achieved:** 65 %  
+**Date Submitted:** 8 September 2025    
+
+**Overview:**  
+This collaborative report assessed the operational, cyber, and strategic risks facing *Pampered Pets Ltd.* during its early digitalisation phase. Using the **ISO 31000 Risk Management Framework**, the team compared the existing physical-store model with the proposed e-commerce expansion. The report identified insecure Wi-Fi, staff dependency, and outdated systems as the highest-impact risks, recommending phased digitalisation with layered mitigations such as multi-factor authentication, training, and vendor SLAs:contentReference[oaicite:0]{index=0}.  
+
+**Key Outcomes:**  
+- Established a structured, ISO-aligned risk register.  
+- Proposed a four-phase digital-transformation roadmap balancing opportunity and resilience.  
+- Developed team collaboration skills across distributed environments.  
+
+**Reference Link:** [📂 Download Risk Assessment (PDF)](https://github.com/ketanmone/ketanmone.github.io/blob/main/Risk%20Assessment%20_%20Pampered%20Pets_Team%20Cipher.pdf)  
+
+---
+
+## 🧩 Individual Project — Executive Summary  
+**Title:** *Quantitative Risk Modelling and Business Continuity Strategy for Pampered Pets Ltd.*  
+**Type:** Individual Submission  
+**Grade:** Pending 
+**Date Submitted:** 13 October 2025  
+
+**Overview:**  
+This individual assignment extended the team project through **quantitative risk modelling** using *Monte Carlo Simulation* and *Failure Mode and Effects Analysis (FMEA)*. It quantified disruption probabilities from automation errors, supplier delays, and IoT cyber-attacks, and integrated a **Business Continuity & Disaster Recovery (BC/DR)** architecture meeting RTO/RPO ≤ 60 seconds.  
+Results indicated a 21 % baseline disruption probability, reduced below 10 % with proposed controls. The multi-cloud BC/DR design (AWS + Azure) achieved compliance with ISO 22301, 27001, and GDPR Art. 32:contentReference[oaicite:1]{index=1}.  
+
+**Key Outcomes:**  
+- Demonstrated proficiency in quantitative-risk simulation and Bayesian updating.  
+- Delivered an enterprise-grade continuity framework aligned with international standards.  
+- Illustrated ethical digitalisation principles and sustainability alignment with UN SDGs 9 & 12.  
+
+**Reference Link:** [📂 Download Executive Summary (DOCX)](https://github.com/ketanmone/ketanmone.github.io/blob/main/Executive%20Summary_%20Quantitative%20Risk%20Modelling%20and%20Business%20Continuity%20Strategy%20for%20Pampered%20Pets%20Ltd.docx)  
+
+---
+
+### 🧾 Reflection on Artefacts  
+Together, these artefacts evidence my progression from **qualitative risk identification** (Unit 6 team report) to **quantitative modelling and continuity design** (Unit 11 individual submission).  
+The journey improved my technical literacy in **Monte Carlo simulations**, deepened my appreciation of **regulatory compliance**, and honed my ability to translate academic frameworks into actionable enterprise recommendations.  
+These deliverables collectively demonstrate the learning outcomes of the *Security and Risk Management* module — critical analysis, methodological selection, ethical consideration, and the application of integrated risk strategies for real-world resilience.
 
 ## Module-wide Reflective Synthesis
 
