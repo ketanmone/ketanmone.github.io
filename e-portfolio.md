@@ -2,7 +2,7 @@
 **Student:** Ketan Mone  
 **University of Essex Online**  
 **Submission Branch:** module-security-risk-mgmt-UoEO-2025  
-**Live URL:** https://ketanmone.github.io/e-portfolio  
+**Live URL:** https://ketanmone.github.io/e-portfolio 
 
 ---
 
