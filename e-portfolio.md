@@ -1,12 +1,11 @@
-# MSc Cyber Security — Security & Risk Management E-Portfolio  
+# MSc Cyber Security — Security & Risk Management   
 **Student:** Ketan Mone  
-**Programme:** University of Essex Online — MSc Cyber Security  
-**Section:** Security & Risk Management   
+**Programme:** University of Essex Online — MSc Cyber Security   
+**Section:** Security & Risk Management    
 **Live URL:** https://ketanmone.github.io/e-portfolio
 
 ---
 
-## How to read this page
 This e-portfolio summarises learning and artefacts from **Units 1–12**, links outcomes to assessments, and closes with a **module-wide reflective synthesis** (aligned to Rolfe et al.’s What? / So What? / Now What?). I attended **two live seminars** and—given time zones and schedule—**engaged with recordings for the rest**, supplementing them with extended readings and detailed write-ups to maintain continuity and depth.
 
 ---
@@ -136,8 +135,8 @@ This e-portfolio summarises learning and artefacts from **Units 1–12**, links 
 
 ## 🧠 Development Team Project — Risk Identification Report  
 **Title:** *Pampered Pets: Risk Assessment and Recommendations*  
-**Type:** Group Submission — Team Cipher  
-**Grade Achieved:** 65 %  
+**Type:** Group Submission — Team Cipher    
+**Grade Achieved:** 65 %    
 **Date Submitted:** 8 September 2025    
 
 **Overview:**  
@@ -154,8 +153,8 @@ This collaborative report assessed the operational, cyber, and strategic risks f
 
 ## 🧩 Individual Project — Executive Summary  
 **Title:** *Quantitative Risk Modelling and Business Continuity Strategy for Pampered Pets Ltd.*  
-**Type:** Individual Submission  
-**Grade:** Pending 
+**Type:** Individual Submission    
+**Grade:** Pending    
 **Date Submitted:** 13 October 2025  
 
 **Overview:**  
