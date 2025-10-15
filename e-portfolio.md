@@ -148,7 +148,7 @@ This collaborative report assessed the operational, cyber, and strategic risks f
 - Proposed a four-phase digital-transformation roadmap balancing opportunity and resilience.  
 - Developed team collaboration skills across distributed environments.  
 
-**Reference Link:** [📂 Download Risk Assessment (PDF)](https://github.com/ketanmone/ketanmone.github.io/blob/main/Risk%20Assessment%20_%20Pampered%20Pets_Team%20Cipher.pdf)  
+**Reference Link:** [📘 Risk Assessment — Pampered Pets (Team Cipher)](Risk_Assessment_Pampered_Pets_Team_Cipher.pdf)
 
 ---
 
@@ -167,7 +167,7 @@ Results indicated a 21 % baseline disruption probability, reduced below 10 % wit
 - Delivered an enterprise-grade continuity framework aligned with international standards.  
 - Illustrated ethical digitalisation principles and sustainability alignment with UN SDGs 9 & 12.  
 
-**Reference Link:** [📂 Download Executive Summary (DOCX)](https://github.com/ketanmone/ketanmone.github.io/blob/main/Executive%20Summary_%20Quantitative%20Risk%20Modelling%20and%20Business%20Continuity%20Strategy%20for%20Pampered%20Pets%20Ltd.docx)  
+**Reference Link:** [📗 Executive Summary — Quantitative Risk Modelling and Business Continuity Strategy](Executive_Summary_Quantitative_Risk_Modelling.pdf)
 
 ---
 
