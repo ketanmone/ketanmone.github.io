@@ -161,7 +161,7 @@ This worksheet analyses measures of central tendency (mean, median, mode) and di
 **Key insights:** Diet A exhibits higher mean weight loss and lower variability, confirming greater consistency. Brand frequency tables further highlight distinct area-based consumer patterns. 
 
 ### 📗 Hypothesis Testing and Summary Measures
-**Artifact:** [Hypothesis_Testing_Worksheet.pdf](https://ketanmone.github.io/rmppHypothesis_Testing_Worksheet.pdf) 
+**Artifact:** [Hypothesis_Testing_Worksheet.pdf](https://ketanmone.github.io/rmpp/Hypothesis_Testing_Worksheet.pdf) 
 Applies both **paired** and **independent samples t-tests** with preliminary F-tests for variance equality.  
 **Findings:**  
 - Significant mean difference between container designs (p ≈ 0.018).  
@@ -179,7 +179,7 @@ Both Excel and LibreOffice outputs confirm the reproducibility of statistical vi
 
 ## 🧾 Reflective Synthesis
 
-**File:** [Reflective_Synthesis_Research_Methods_Professional_Practice.pdf](https://ketanmone.github.io/Reflective_Synthesis_Research_Methods_Professional_Practice.pdf)  
+**File:** [Reflective_Synthesis_Research_Methods_Professional_Practice.pdf](https://ketanmone.github.io/rmpp/Reflective_Synthesis_Research_Methods_Professional_Practice.pdf)  
 This final reflection uses Rolfe et al.’s (2001) model to evidence growth in **methodological reasoning**, **ethical awareness**, **statistical literacy**, **qualitative rigour**, and **research communication**. It identifies transfer to practice (governance, responsible AI, stakeholder engagement) and a concrete plan for the dissertation (mixed-methods IoT governance).
 
 ---
