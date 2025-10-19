@@ -3,7 +3,8 @@
 **Student:** Ketan Dileep Mone  
 **Course:** University of Essex Online — MSc Cyber Security  
 **Module:** Research Methods & Professional Practice  
-**Live URL:**  https://ketanmone.github.io/rmpp/ 
+**Live URL:** [https://ketanmone.github.io/rmpp/](https://ketanmone.github.io/rmpp/)
+
 
 ---
 
@@ -139,7 +140,7 @@ This e-portfolio summarises learning and artefacts from **Units 1–12**, maps t
 **Title:** *Cybersecurity Threats in IoT: Towards Secure, Ethical, and Resilient Frameworks*  
 **Type:** Individual report (PDF)  
 **Date:** 15th September 2025  
-**File:** `Cybersecurity_Threats_in_IoT_Towards_Secure_Ethical_and_Resilient_Frameworks.pdf`  
+**File:** [Cybersecurity_Threats_in_IoT_Towards_Secure_Ethical_and_Resilient_Frameworks.pdf](https://ketanmone.github.io/assets/rmpp/docs/Cybersecurity_Threats_in_IoT_Towards_Secure_Ethical_and_Resilient_Frameworks.pdf)  
 **Overview:** A structured synthesis of IoT security literature across technical controls (identity, segmentation, update hygiene), **ethical governance**, and resilience.  
 **Key Outcomes:** Clear gap-analysis; method-aware critique; directions for mixed-methods research.
 
