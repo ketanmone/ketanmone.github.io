@@ -148,7 +148,7 @@ This e-portfolio summarises learning and artefacts from **Units 1–12**, maps t
 **Type:** Slide deck + audio narration (MP4)  
 **Date:** 6th October 2025  
 **File:** <video width="720" height="405" controls>
-  <source src="https://ketanmone.github.io/assets/rmpp/media/Research_Proposal_Presentation_Ketan_Mone.mp4" type="video/mp4">
+  <source src="https://ketanmone.github.io/rmpp/Research_Proposal_Presentation_Ketan_Mone.mp4" type="video/mp4">
 </video> 
 **Overview:** Problem definition, review logic, methodology (convergent mixed-methods), ethics (Menlo + BCS), data/analysis plan, and timeline.  
 **Key Outcomes:** Methodological coherence; ethical safeguards; feasible schedule and risk plan. 
