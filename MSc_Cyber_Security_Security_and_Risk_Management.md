@@ -2,7 +2,7 @@
 **Student:** Ketan Dileep Mone   
 **Programme:** University of Essex Online — MSc Cyber Security   
 **Module:** Security & Risk Management     
-**Live URL:** [https://ketanmone.github.io/MSc_Cyber_Security_Security_and_Risk_Management](https://ketanmone.github.io/MSc_Cyber_Security_Security_and_Risk_Management)
+**Live URL:** [[https://ketanmone.github.io/MSc_Cyber_Security_Security_and_Risk_Management](https://ketanmone.github.io/MSc_Cyber_Security_Security_and_Risk_Management)](https://github.com/ketanmone/ketanmone.github.io/blob/submission-srm-2025-10-20/MSc_Cyber_Security_Security_and_Risk_Management.md)
 
 ---
 
