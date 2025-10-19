@@ -1,7 +1,7 @@
 # 🎓 MSc Cyber Security — Research Methods & Professional Practice
 
 **Student:** Ketan Dileep Mone  
-**Programme:** University of Essex Online — MSc Cyber Security  
+**Course:** University of Essex Online — MSc Cyber Security  
 **Module:** Research Methods & Professional Practice  
 **Live URL:** https://ketanmone.github.io/MSc_Cyber_Security_Research_Methods_and_Professional_Practice
 
@@ -149,13 +149,28 @@ This e-portfolio summarises learning and artefacts from **Units 1–12**, maps t
 **Date:** 6th October 2025  
 **File:** `Research_Proposal_Presentation_Ketan_Mone.mp4`  
 **Overview:** Problem definition, review logic, methodology (convergent mixed-methods), ethics (Menlo + BCS), data/analysis plan, and timeline.  
-**Key Outcomes:** Methodological coherence; ethical safeguards; feasible schedule and risk plan.
+**Key Outcomes:** Methodological coherence; ethical safeguards; feasible schedule and risk plan. 
 
-### 🧾 Statistical Worksheets (Compulsory e-Portfolio Components)  
-- **Hypothesis Testing Worksheet** → `Hypothesis_Testing_Worksheet.pdf`  
-- **Summary Measures Worksheet** → `Summary_Measures_Worksheet.pdf`  
-- **Charts Example Worksheet** → `Charts_Example_Worksheet.pdf`
+### 📘 Summary Measures (Descriptive Statistics)
+**Artifact:** [Summary_Measures_Worksheet.pdf](./Summary_Measures_Worksheet.pdf)  
+This worksheet analyses measures of central tendency (mean, median, mode) and dispersion (range, variance, standard deviation, IQR) for two diet programmes.  
+**Key insights:** Diet A exhibits higher mean weight loss and lower variability, confirming greater consistency. Brand frequency tables further highlight distinct area-based consumer patterns. 
 
+### 📗 Hypothesis Testing and Summary Measures
+**Artifact:** [Hypothesis_Testing_Worksheet.pdf](./Hypothesis_Testing_Worksheet.pdf)  
+Applies both **paired** and **independent samples t-tests** with preliminary F-tests for variance equality.  
+**Findings:**  
+- Significant mean difference between container designs (p ≈ 0.018).  
+- Diet A yields significantly higher mean weight loss than Diet B (p < 0.01).  
+These results validate prior descriptive analysis and illustrate correct hypothesis formulation, directional testing, and interpretation.
+
+### 📙 Bar Charts and Histograms
+**Artifact:** [Charts_Example_Worksheet.pdf](./Charts_Example_Worksheet.pdf)  
+Visualises categorical and continuous data through percentage bar charts and relative-frequency histograms.  
+**Findings:**  
+- Brand preference charts show higher loyalty to named brands in Area 2.  
+- Diet A’s histogram is nearly symmetric and consistent, while Diet B is right-skewed and variable.  
+Both Excel and LibreOffice outputs confirm the reproducibility of statistical visuals.
 ---
 
 ## 🧾 Reflective Synthesis
@@ -165,7 +180,7 @@ This final reflection uses Rolfe et al.’s (2001) model to evidence growth in *
 
 ---
 
-## 📚 Core References
+## 📚 References
 
 - Andersen, H. & Hepburn, B. (2020). *Scientific Method*. Stanford Encyclopedia of Philosophy.  
 - Berenson, L., Levine, D. & Szabat, K. (2020). *Basic Business Statistics* (14th ed.). Pearson.  
@@ -176,6 +191,9 @@ This final reflection uses Rolfe et al.’s (2001) model to evidence growth in *
 - Microsoft (2023). *Why data dashboards are important*.  
 - Purdue University (2023). *Basic Inferential Statistics*.  
 - Saunders, M., Lewis, P. & Thornhill, A. (2023). *Research Methods for Business Students* (9th ed.). Pearson.
+- Field, A. (2018) Discovering Statistics Using IBM SPSS Statistics. 5th edn. London: SAGE Publications.
+- Upton, G. and Cook, I. (2014) Oxford Dictionary of Statistics. 3rd edn. Oxford: Oxford University Press.
+
 
 ---
 
