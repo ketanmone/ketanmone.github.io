@@ -147,19 +147,20 @@ This e-portfolio summarises learning and artefacts from **Units 1–12**, maps t
 **Title:** *Mixed-Methods Study of IoT Governance in Smart Cities*  
 **Type:** Slide deck + audio narration (MP4)  
 **Date:** 6th October 2025  
-**File:** <video width="720" height="405" controls>
-  <source src="https://ketanmone.github.io/Research_Proposal_Presentation_Ketan_Mone.mp4" type="video/mp4">
+
+<video width="720" height="405" controls>
+  <source src="https://ketanmone.github.io/rmpp/Research_Proposal_Presentation_Ketan_Mone.mp4" type="video/mp4">
 </video> 
 **Overview:** Problem definition, review logic, methodology (convergent mixed-methods), ethics (Menlo + BCS), data/analysis plan, and timeline.  
 **Key Outcomes:** Methodological coherence; ethical safeguards; feasible schedule and risk plan. 
 
 ### 📘 Summary Measures
-**Artifact:** [Summary_Measures_Worksheet.pdf](https://ketanmone.github.io/Summary_Measures_Worksheet.pdf) 
+**Artifact:** [Summary_Measures_Worksheet.pdf](https://ketanmone.github.io/rmpp/Summary_Measures_Worksheet.pdf) 
 This worksheet analyses measures of central tendency (mean, median, mode) and dispersion (range, variance, standard deviation, IQR) for two diet programmes.  
 **Key insights:** Diet A exhibits higher mean weight loss and lower variability, confirming greater consistency. Brand frequency tables further highlight distinct area-based consumer patterns. 
 
 ### 📗 Hypothesis Testing and Summary Measures
-**Artifact:** [Hypothesis_Testing_Worksheet.pdf](https://ketanmone.github.io/Hypothesis_Testing_Worksheet.pdf) 
+**Artifact:** [Hypothesis_Testing_Worksheet.pdf](https://ketanmone.github.io/rmppHypothesis_Testing_Worksheet.pdf) 
 Applies both **paired** and **independent samples t-tests** with preliminary F-tests for variance equality.  
 **Findings:**  
 - Significant mean difference between container designs (p ≈ 0.018).  
@@ -167,7 +168,7 @@ Applies both **paired** and **independent samples t-tests** with preliminary F-t
 These results validate prior descriptive analysis and illustrate correct hypothesis formulation, directional testing, and interpretation.
 
 ### 📙 Bar Charts and Histograms
-**Artifact:** [Charts_Example_Worksheet.pdf](https://ketanmone.github.io/Charts_Example_Worksheet.pdf) 
+**Artifact:** [Charts_Example_Worksheet.pdf](https://ketanmone.github.io/rmpp/Charts_Example_Worksheet.pdf) 
 Visualises categorical and continuous data through percentage bar charts and relative-frequency histograms.  
 **Findings:**  
 - Brand preference charts show higher loyalty to named brands in Area 2.  
