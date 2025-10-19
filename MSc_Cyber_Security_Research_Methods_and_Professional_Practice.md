@@ -151,7 +151,7 @@ This e-portfolio summarises learning and artefacts from **Units 1–12**, maps t
 **Overview:** Problem definition, review logic, methodology (convergent mixed-methods), ethics (Menlo + BCS), data/analysis plan, and timeline.  
 **Key Outcomes:** Methodological coherence; ethical safeguards; feasible schedule and risk plan. 
 
-### 📘 Summary Measures (Descriptive Statistics)
+### 📘 Summary Measures
 **Artifact:** [Summary_Measures_Worksheet.pdf](./Summary_Measures_Worksheet.pdf)  
 This worksheet analyses measures of central tendency (mean, median, mode) and dispersion (range, variance, standard deviation, IQR) for two diet programmes.  
 **Key insights:** Diet A exhibits higher mean weight loss and lower variability, confirming greater consistency. Brand frequency tables further highlight distinct area-based consumer patterns. 
