@@ -2,7 +2,7 @@
 **Student:** Ketan Dileep Mone   
 **Programme:** University of Essex Online — MSc Cyber Security   
 **Module:** Security & Risk Management     
-**Live URL:** [[https://ketanmone.github.io/MSc_Cyber_Security_Security_and_Risk_Management](https://ketanmone.github.io/MSc_Cyber_Security_Security_and_Risk_Management)](https://github.com/ketanmone/ketanmone.github.io/blob/submission-srm-2025-10-20/MSc_Cyber_Security_Security_and_Risk_Management.md)
+**Live URL:** [https://ketanmone.github.io/MSc_Cyber_Security_Security_and_Risk_Management](https://github.com/ketanmone/ketanmone.github.io/blob/submission-srm-2025-10-20/MSc_Cyber_Security_Security_and_Risk_Management.md)
 
 ---
 
@@ -129,7 +129,6 @@ This e-portfolio summarises learning and artefacts from **Units 1–12**, links 
 **Reflection.** I argued that **AI-driven risk intelligence**—paired with human oversight—will be most influential, because it connects detection, response, and governance into a continuous feedback loop.
 
 ---
----
 
 # 📄 Appendix: Module Assignments and Artefacts  
 
@@ -175,39 +174,8 @@ Together, these artefacts evidence my progression from **qualitative risk identi
 The journey improved my technical literacy in **Monte Carlo simulations**, deepened my appreciation of **regulatory compliance**, and honed my ability to translate academic frameworks into actionable enterprise recommendations.  
 These deliverables collectively demonstrate the learning outcomes of the *Security and Risk Management* module — critical analysis, methodological selection, ethical consideration, and the application of integrated risk strategies for real-world resilience.
 
-## Module-wide Reflective Synthesis
-
-### What? — Journey, artefacts, and capability growth  
-Across twelve units, my trajectory moved from **shared definitions** and **process literacy** (Units 1–2) to **practical threat modelling** (Units 3–4), **standards-driven governance** (Units 5–6), **quantitative modelling** (Units 7–8), and **operational resilience** (Units 9–10), ending with **future trends and debate** (Units 11–12). Two artefacts anchor this journey:
-
-* **Team Cipher — Risk Identification Report (Unit 6)**: a structured, ISO-aligned baseline of risks and mitigations for Pampered Pets’ digitalisation.  
-* **Individual Executive Summary (Unit 11)**: quantitative prioritisation (Monte Carlo + FMEA) and a **multi-cloud BC/DR** strategy with tight RTO/RPO targets.
-
-While I attended only **two live seminars**, I deliberately compensated by **systematically engaging with seminar recordings**, extending the set readings, and documenting my takeaways with screenshots, notes, and self-set exercises. This approach ensured continuity without overstating live attendance and, in practice, suited deep, reflective work.
-
-### So What? — Critical insights and turning points  
-Three moments changed my practice:
-
-1) **From controls to culture.** Early on, I equated “more controls” with “more security.” The user-participation focus (Unit 2) and standards case studies (Unit 5–6) reframed security as **a social system** where adoption determines effectiveness. In later modelling, I explicitly considered training fatigue, process friction, and ownership—variables that often make or break controls.
-
-2) **From scores to distributions.** Threat modelling gave structure, but **Monte Carlo** (Unit 7–8) changed my mental model of risk. Instead of single numbers, I now think in **ranges and likelihoods**, supported by sensitivity analysis. This helped me argue credibly for investing in high-leverage controls (identity, segmentation, detection) rather than spreading budget thinly.
-
-3) **From continuity plans to resilience practice.** Units 9–10 connected risk to **recoverability**. Setting RTO/RPO targets and designing to them forced trade-offs between cost and speed. I learned that outsourcing to DRaaS reduces toil but may **increase systemic dependency**, so multi-region/multi-vendor approaches are preferable.
-
-Ethically, Unit 11’s trend analysis made clear that **automation** can improve coverage yet amplify harm if ungoverned. My stance is **human-in-the-loop**: use AI to scale detection/response, but retain oversight, auditability, and clear accountability.
-
-### Now What? — Applying lessons professionally and academically  
-**Operational habits.** I will begin initiatives with a one-page **Risk Charter** that names assets, failure modes, owners, and RTO/RPO tolerances. I’ll embed **table-top exercises** and **post-incident learning reviews** each quarter, aligning with ISO/IEC and NIST guidance.
-
-**Modelling roadmap.** Beyond Monte Carlo and FMEA, I plan to prototype **Bayesian networks** and **attack–defence trees** to capture dependencies and countermeasures. I’ll also experiment with **chaos engineering** to safely validate BC/DR assumptions in staging.
-
-**Governance and ethics.** When proposing AI-enabled controls, I’ll include **model-risk** discussion (drift, bias, false positives) and safeguards (explanations, human approval points). This aligns privacy and fairness with security outcomes.
-
-**Communication.** I will continue translating complex analysis into **plain-language narratives** with visual intervals, not just point estimates. Executives buy clarity; teams need actionable granularity. My Unit 6 feedback (65%) was a reminder to balance depth with succinct delivery.
-
-**Personal stance on attendance.** I learned that live discussion accelerates nuance. While time-zones limited live participation, recordings plus systematic note-taking and extended reading sustained my momentum. In future modules, I’ll aim to **increase live engagement** while keeping my documentation discipline.
-
-**Conclusion.** The module shifted my identity from documenting risk to **operationalising resilience**: designing controls that work, testing them, measuring them, and improving them continuously. That mindset—curious, quantitative, and ethically aware—is the through-line of this e-portfolio.
+## 🧾 Module-wide Reflective Synthesis
+**File:** [Reflective_Synthesis_Security_and_Risk_Management.pdf](./Reflective_Synthesis_Security_and_Risk_Management.pdf)
 
 ---
 
