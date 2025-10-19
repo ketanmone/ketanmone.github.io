@@ -175,7 +175,7 @@ Both Excel and LibreOffice outputs confirm the reproducibility of statistical vi
 
 ## 🧾 Reflective Synthesis
 
-**File:** `Reflective_Synthesis_Research_Methods_Professional_Practice.pdf`  
+**File:** [Reflective_Synthesis_Research_Methods_Professional_Practice.pdf](https://ketanmone.github.io/Reflective_Synthesis_Research_Methods_Professional_Practice.pdf)    
 This final reflection uses Rolfe et al.’s (2001) model to evidence growth in **methodological reasoning**, **ethical awareness**, **statistical literacy**, **qualitative rigour**, and **research communication**. It identifies transfer to practice (governance, responsible AI, stakeholder engagement) and a concrete plan for the dissertation (mixed-methods IoT governance).
 
 ---
