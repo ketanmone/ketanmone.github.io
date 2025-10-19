@@ -2,7 +2,7 @@
 **Student:** Ketan Dileep Mone   
 **Programme:** University of Essex Online — MSc Cyber Security   
 **Module:** Security & Risk Management     
-**Live URL:** [https://ketanmone.github.io/MSc_Cyber_Security_Security_and_Risk_Management](https://ketanmone.github.io/srm/MSc_Cyber_Security_Security_and_Risk_Management)
+**Live URL:** [https://ketanmone.github.io/srm/](https://ketanmone.github.io/srm/)
 
 ---
 
@@ -171,6 +171,9 @@ Results indicated a 21 % baseline disruption probability, reduced below 10 % wit
 ---
 
 ### 🧾 Reflection on Artefacts  
+
+**Reflection PDF:** [Reflective_Synthesis_Security_and_Risk_Management.pdf](https://ketanmone.github.io/srm/Reflective_Synthesis_Security_and_Risk_Management.pdf)
+
 Together, these artefacts evidence my progression from **qualitative risk identification** (Unit 6 team report) to **quantitative modelling and continuity design** (Unit 11 individual submission).  
 The journey improved my technical literacy in **Monte Carlo simulations**, deepened my appreciation of **regulatory compliance**, and honed my ability to translate academic frameworks into actionable enterprise recommendations.  
 These deliverables collectively demonstrate the learning outcomes of the *Security and Risk Management* module — critical analysis, methodological selection, ethical consideration, and the application of integrated risk strategies for real-world resilience.
