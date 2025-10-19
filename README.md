@@ -81,25 +81,6 @@ Experienced in working with cross-functional teams across the **USA**, **Europe*
 
 ---
 
-## 📈 Featured Work  
-
-- [📗 **Executive Summary — Quantitative Risk Modelling & Business Continuity Strategy**](./Executive_Summary_Quantitative_Risk_Modelling.pdf)  
-  *University of Essex Online | Quantitative Risk Modelling with Monte Carlo simulation & ISO 31000 alignment*  
-
-- [📘 **Team Project — Risk Assessment (Pampered Pets Ltd)**](./Risk_Assessment_Pampered_Pets_Team_Cipher.pdf)  
-  *Collaborative Risk Identification Report | GDPR Compliance | Business Continuity Planning*  
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ketanmone&show_icons=true&theme=radical&hide_border=true" height="160">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketanmone&layout=compact&theme=radical&hide_border=true" height="160">
-</p>
-
----
-
 ## 🌐 Connect  
 📫 **Email:** [ketanmone@gmail.com](mailto:ketanmone@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/ketan-mone](https://www.linkedin.com/in/ketan-mone/)  
