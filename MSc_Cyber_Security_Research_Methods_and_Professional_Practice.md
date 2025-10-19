@@ -147,7 +147,7 @@ This e-portfolio summarises learning and artefacts from **Units 1–12**, maps t
 **Title:** *Mixed-Methods Study of IoT Governance in Smart Cities*  
 **Type:** Slide deck + audio narration (MP4)  
 **Date:** 6th October 2025  
-**File:** `Research_Proposal_Presentation_Ketan_Mone.mp4`  
+**File:** [View or Download Presentation](https://github.com/ketanmone/ketanmone.github.io/raw/submission-rmpp-2025-10-20/Research_Proposal_Presentation_Ketan_Mone.mp4)  
 **Overview:** Problem definition, review logic, methodology (convergent mixed-methods), ethics (Menlo + BCS), data/analysis plan, and timeline.  
 **Key Outcomes:** Methodological coherence; ethical safeguards; feasible schedule and risk plan. 
 
