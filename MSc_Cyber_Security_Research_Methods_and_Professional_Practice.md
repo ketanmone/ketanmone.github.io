@@ -7,7 +7,7 @@
 
 ---
 
-This e-portfolio summarises learning and artefacts from **Units 1–12**, maps them to the module’s formative and summative requirements, and closes with a **Reflective synthesis** (Rolfe et al.’s What? / So What? / Now What?). I joined **two live seminars** and—given time-zones and schedule—**engaged via recordings** for the remaining sessions, supplementing with extended reading and detailed write-ups to maintain continuity and depth.
+This e-portfolio summarises learning and artefacts from **Units 1–12**, maps them to the module’s formative and summative requirements, and closes with a **Reflective synthesis** (Rolfe et al.’s What? / So What? / Now What?). I joined **two live seminars** and **engaged via recordings** for the remaining sessions, supplementing with extended reading and detailed write-ups to maintain continuity and depth.
 
 ---
 
@@ -156,9 +156,6 @@ This e-portfolio summarises learning and artefacts from **Units 1–12**, maps t
 - **Summary Measures Worksheet** → `Summary_Measures_Worksheet.pdf`  
 - **Charts Example Worksheet** → `Charts_Example_Worksheet.pdf`
 
-*(If you don’t have these yet, create brief PDFs from your workbook screenshots with 2–3 lines of interpretation each.)*
-
-
 ---
 
 ## 🧾 Reflective Synthesis
@@ -168,7 +165,7 @@ This final reflection uses Rolfe et al.’s (2001) model to evidence growth in *
 
 ---
 
-## 📚 Core References (selection)
+## 📚 Core References
 
 - Andersen, H. & Hepburn, B. (2020). *Scientific Method*. Stanford Encyclopedia of Philosophy.  
 - Berenson, L., Levine, D. & Szabat, K. (2020). *Basic Business Statistics* (14th ed.). Pearson.  
@@ -179,8 +176,6 @@ This final reflection uses Rolfe et al.’s (2001) model to evidence growth in *
 - Microsoft (2023). *Why data dashboards are important*.  
 - Purdue University (2023). *Basic Inferential Statistics*.  
 - Saunders, M., Lewis, P. & Thornhill, A. (2023). *Research Methods for Business Students* (9th ed.). Pearson.
-
-*(Full list appears in the reflective PDF.)*
 
 ---
 
