@@ -7,7 +7,7 @@
 <p align="center">
 <b>Service & Business Consultant | Cyber Security | Digital Transformation | Strategy & Governance</b><br>
 📍 Mumbai, India • 📧 <a href="mailto:ketanmone@gmail.com">ketanmone@gmail.com</a><br>
-🔗 <a href="https://www.linkedin.com/in/ketan-mone/">LinkedIn</a> • <a href="https://ketanmone.github.io/e-portfolio">E-Portfolio</a>
+🔗 <a href="https://www.linkedin.com/in/ketan-mone/">LinkedIn</a> 
 </p>
 
 ---
