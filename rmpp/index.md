@@ -140,7 +140,7 @@ This e-portfolio summarises learning and artefacts from **Units 1–12**, maps t
 **Title:** *Cybersecurity Threats in IoT: Towards Secure, Ethical, and Resilient Frameworks*  
 **Type:** Individual report (PDF)  
 **Date:** 15th September 2025  
-**File:** [Cybersecurity_Threats_in_IoT_Towards_Secure_Ethical_and_Resilient_Frameworks.pdf](https://ketanmone.github.io/assets/rmpp/docs/Cybersecurity_Threats_in_IoT_Towards_Secure_Ethical_and_Resilient_Frameworks.pdf)  
+**File:** [Cybersecurity_Threats_in_IoT_Towards_Secure_Ethical_and_Resilient_Frameworks.pdf](https://ketanmone.github.io/rmpp/Cybersecurity_Threats_in_IoT_Towards_Secure_Ethical_and_Resilient_Frameworks.pdf)  
 **Overview:** A structured synthesis of IoT security literature across technical controls (identity, segmentation, update hygiene), **ethical governance**, and resilience.  
 **Key Outcomes:** Clear gap-analysis; method-aware critique; directions for mixed-methods research.
 
@@ -200,11 +200,11 @@ This final reflection uses Rolfe et al.’s (2001) model to evidence growth in *
 - Financial Times (2023) ‘FT Visual Vocabulary: Charts that work’. Available at: https://ft.com/visual-vocabulary
  (Accessed: 8 October 2025).
 - Microsoft (2023) ‘Why data dashboards are important’, Microsoft Learn. Available at: https://learn.microsoft.com/
- (Accessed: 20 October 2025).
+ (Accessed: 14 October 2025).
 - Menlo Report (2012) The Menlo Report: Ethical Principles Guiding Information and Communication Technology Research. U.S. Department of Homeland Security.    Available at: https://www.dhs.gov/sites/default/files/publications/CSD-MenloPrinciples-2012_0.pdf
- (Accessed: 216 October 2025).
+ (Accessed: 16 October 2025).
 - QuestionPro (2021) ‘What is Research?’, QuestionPro Insights. Available at: https://www.questionpro.com/
- (Accessed: 20 October 2025).
+ (Accessed: 19 October 2025).
 - Rolfe, G., Freshwater, D. & Jasper, M. (2001) Critical Reflection in Nursing and the Helping Professions: A User’s Guide. Basingstoke: Palgrave Macmillan.
 
 ---
